@@ -49,7 +49,7 @@ p{
     text-align: center;
 }
 #project-section{
-    padding: 50px 25px;
+    padding: 50px 35px;
     background-color: ghostwhite;
 }
 #project-section h2{
@@ -62,26 +62,49 @@ p{
     background-size: 75% 30%;
     background-repeat: no-repeat;
     background-position: top;
+    height: 500px;
+    margin-top: 80px;
 }
 .cus-sup{
     width: 60%;
     color: white;
     text-align: center;
     float: left;
-    margin: 50px 20px;
+    margin: 35px 20px;
 }
 .chat-opt{
     width: 8%;
     float: left;
     text-align: center;
-    margin: 68px;
+    margin: 50px;
 }
-.what-up{
+.hobby-sec{
+    padding: 10px;
+    height: 680px;
+}
+.my-hobbies{
+    width: 38%;
+    box-shadow: 10px 10px 40px gray;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+    text-align: center;
+    height: 500px;
+}
+.hobby-img{
+    width: 500px;
+    height: 300px;
+}
+.hobby-sec h2{
+    text-align: center;
+}
+.chat-area{
     height: 200px;
     margin: 50px;
 }
 .stay-us{
     text-align: center;
+    margin: 0;
 }
 .stay-us h2{
     margin-top: 3px;
