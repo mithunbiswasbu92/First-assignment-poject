@@ -1,0 +1,97 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.half-width{
+    width: 40%;
+    padding-left: 5%;
+    margin-left: 2%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 600px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 800;
+}
+h2{
+    font-size: 40px;
+}
+span{
+    color: #ff8d79;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(180deg,salmon,tomato);
+}
+p{
+    margin-bottom: 30px;
+}
+.pro-div{
+    width: 28%;
+    margin: 2%;
+    background-color: white;
+    float: left;
+}
+.prject-img{
+    width: 100%;
+}
+.pro-div h3{
+    text-align: center;
+}
+.pro-div p{
+    text-align: center;
+}
+#project-section{
+    padding: 50px 25px;
+    background-color: ghostwhite;
+}
+#project-section h2{
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+}
+.suppot-section{
+    background-image: url(images/support.png);
+    background-size: 75% 30%;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.cus-sup{
+    width: 60%;
+    color: white;
+    text-align: center;
+    float: left;
+    margin: 50px 20px;
+}
+.chat-opt{
+    width: 8%;
+    float: left;
+    text-align: center;
+    margin: 68px;
+}
+.what-up{
+    height: 200px;
+    margin: 50px;
+}
+.stay-us{
+    text-align: center;
+}
+.stay-us h2{
+    margin-top: 3px;
+    margin-bottom: 20px;
+}
+.stay-us p{
+    margin-bottom: 0px;
+}
+.connected-link{
+    width: 50px;
+    height: auto;
+    margin: 8px;
+}
