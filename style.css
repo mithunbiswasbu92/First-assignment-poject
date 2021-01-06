@@ -1,6 +1,23 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.main-nav{
+    display: inline-block;
+    text-align: right;
+    width: 100%;
+}
+.main-nav__item{
+    display: inline;
+    width: 20px;
+    margin: 50px 15px;
+}
+.main-nav__item a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    background-color: #dce7dc;
+    border-radius: 10px;
+}
 .half-width{
     width: 40%;
     padding-left: 5%;
@@ -58,7 +75,7 @@ p{
     font-size: 40px;
 }
 .suppot-section{
-    background-image: url(images/support.png);
+    background-image: url(images/Background/support.png);
     background-size: 75% 30%;
     background-repeat: no-repeat;
     background-position: top;
@@ -90,6 +107,7 @@ p{
     padding: 2%;
     text-align: center;
     height: 500px;
+    border-radius: 10px;
 }
 .hobby-img{
     width: 500px;
