@@ -18,6 +18,9 @@ body{
     background-color: #dce7dc;
     border-radius: 10px;
 }
+.contract-button{
+    margin-right: 75px;
+}
 .half-width{
     width: 40%;
     padding-left: 5%;
@@ -45,7 +48,7 @@ span{
     color: white;
     padding: 10px 30px;
     border-radius: 5px;
-    background-image: linear-gradient(180deg,salmon,tomato);
+    background-image: linear-gradient(180deg,#db1679,#6632f7);
 }
 p{
     margin-bottom: 30px;
@@ -94,6 +97,7 @@ p{
     float: left;
     text-align: center;
     margin: 50px;
+    background-image: linear-gradient(180deg,#c5ec19,#2dd627);
 }
 .hobby-sec{
     padding: 10px;
